@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zampiersoccer.com.br/sitemap.xml
